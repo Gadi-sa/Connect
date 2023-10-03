@@ -1,4 +1,4 @@
-![Algorithm schema](nav.png)
+![Algorithm schema](readme_img/nav.png)
 # Connect
 Connect is a responsive social networking website that allows users to easily ```create profiles, share their stories, and connect with others.``` The platform features a simple ```user registration, login system, and forget password```, enabling users to quickly ```customize their profiles with personal information, profile picture, and a short biography```.
 
@@ -30,8 +30,8 @@ $db_name = "backend";
 * comments: stores comments made on stories, along with the user and story IDs, the comment text, and the creation date.
 
 # Dark/Light Mode
-![Algorithm schema](darkmode.png)
-![Algorithm schema](lightmode.png)
+![Algorithm schema](readme_img/darkmode.png)
+![Algorithm schema](readme_img/lightmode.png)
 
 To experience the ```dark/light mode``` functionality, you should first turn off the dark mode from your ```computer's settings by going to Personalization > Colors and turning off dark mode if it's already on.``` Once you have done that, you can go to the Connect website and toggle between dark and light mode using the toggle switch provided on the website.
  # Defualt Account
